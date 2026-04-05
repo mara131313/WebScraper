@@ -1,0 +1,11 @@
+# environments
+.venv/
+venv/
+ENV/
+
+# IDE settings
+.idea/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
